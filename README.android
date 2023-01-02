@@ -1,2 +1,3 @@
-The patch in patches/env.diff needs to be updated with crate version update to match
-the new crate version.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c241f678dd1477adac81aefe5b586eaf08fdaeed33c638330c7f57d21db2c270
+size 108
